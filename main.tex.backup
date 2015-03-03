@@ -238,8 +238,8 @@ con otros individuos, con reglas a consensar o preestablecidas, para comenzar
 a experimentar la construcción de conocimiento.
 
 
-\subsubsection{Perfiles infantiles}
-\label{sec:SegundoGradoDePrimaria}
+\subsection{Perfiles infantiles}
+\subsubsection{Segundo grado de primaria}
 
 En el momento en que los niños llegan a esta edad (siente años aproximadamente) 
 buscan la aceptación de los adultos.  Algunos 
@@ -253,7 +253,6 @@ Es importante fortalecer habilidades emocionales como:
 	\item Autocontrol
 	\item Auto estima
 \end{itemize}
-\nexline
 Mientras desarrollan habilidades intelectuales como:
 \begin{itemize}
 	\item Rastreo Visual
@@ -268,8 +267,7 @@ Mientras desarrollan habilidades intelectuales como:
 	\item Inferencias
 
 \end{itemize}
-\nexline
-\label{sec:tercer y cuarto año de Primaria}
+\subsubsection{Tercer y cuarto año de Primaria}
 
  En esta etapa suelen volverse pueden crueles con los comentarios que hacen el uno 
  al otro. Se deben orientara ser objetivos en el tema de las amistades
@@ -283,7 +281,6 @@ Es importante fortalecer habilidades emocionales como:
 	\item Inteligencia emocional
 	\item Autonomía
 \end{itemize}
-\nexline
 Mientras desarrollan habilidades intelectuales como:
 \begin{itemize}
 	\item Clasificación y comparación
@@ -300,41 +297,317 @@ Mientras desarrollan habilidades intelectuales como:
 
 \end{itemize}
 
-\label{sec:QuintoA�oDePrimaria}
+\subsubsection{Quinto año de primaria}
 
-En esta etapa, el ni�o puede comenzar a hablar de sexo con sus compa�eros. Algunos ni�os pueden sentirse presionados a experimentar con el sexo. Durante esta etapa, es importante que los padres est�n muy abiertos a hablar de este tema, en funci�n de sus creencias y valores. Su hijo tambi�n puede convertirse en aquel que destaque emocionalmente por su autoestima y fortaleza. Los ni�os pasan por una gran cantidad de estr�s emocional generado por el entorno, las cuestiones de popularidad, cuestiones personales, y c�mo se ven en general. Suelen estar preocupados acerca de c�mo sus cuerpos se est�n desarrollando. Sorprendentemente, hay m�s y m�s chicas j�venes que empiezan su ciclo menstrual durante esta edad.  Es necesario acompa�arlos muy de cerca ya que se trata de un de ajuste.  No escatime tiempo para hablar con sus hijos acerca de c�mo se sienten y se ven de sus deseos y sus sue�os etc. Por eso las habilidades de comunicaci�n y socializaci�n son de vital importancia en esta edad.
-\nexline
-Haremos �nfasis en habilidades como:
+Algunos niños pueden sentirse presionados a experimentar. 
+Los niños pasan por una gran cantidad de estrés emocional generado por el entorno, 
+las cuestiones de popularidad y cuestiones personales. 
+Habilidades emocionales:
+
 \begin{itemize}
 	\item Auto conciencia
-	\item Empat�a
+	\item Empatía
 	\item Asertividad
 	\item Inteligencia emocional
-	\item Autonom�a
-	\item Comunicaci�n
-	\item Soluci�n eficaz de conflictos
+	\item Autonomía
+	\item Comunicación
+	\item Solución eficaz de conflictos
 	\item Establecimiento de metas
 \end{itemize}
-\nexline
-Mientras desarrollamos habilidades Intelectuales como:
-\begin{itemize}
-	\item Razonamiento l�gico
-	\item Decodificaci�n e interpretaci�n
-	\item Identificaci�n y selecci�n de informaci�n
-	\item Inferencia
-	\item Deducci�n
-	\item Metacognici�n (Capacidad del individuo para trascender y re-apilicar su propio conocimiento)
-\end{itemize}
-\nexline
-La informaci�n de los perfiles de comportamiento de los ni�os en diferentes edades, en conjunto con la informaci�n obtenida en la investigaci�n y la aclaraci�n de conceptos en la retroalimentaci�n psicol�gica, nos sirvi� como punto de partida para saber qu� comportamientos observar en los ni�os al momento de visitar escuelas. De manera simult�nea, nos brind� palabras clave para el dise�o de la interfaz y la posible retroalimentaci�n que el sistema Olinki le dar� al usuario final; as� mismo, la aclaraci�n de los conceptos y paradigmas pedag�gicos como el construccionismo nos ayud� para decidir de qu� manera puede funcionar mejor el dise�o del mecanismo olinki encajando en las ideas de �sta corriente pedag�gica.
-\nexline
-\subsubsection{Retroalimentaci�n en escuelas}
-\label{sec:Retroalimentaci�nEnEscuelas}
 
-Como hasta ahora hemos visto, el proyecto est� enfocado principalmente a ni�os que oscilan entre los 7 y 11 a�os, lo que implica que de alguna manera debemos conocer c�mo es el ambiente en el que se desenvuelven para afinar detalles con el dise�o del sistema Olinki. Para esto era necesario convivir con grupos de ni�os de diferentes edades en un ambiente en el que est�n aprendiendo de manera habitual, entonces buscamos un espacio en diferentes escuelas d�nde nos permitieran poder hacer una observaci�n de campo con alumnos de segundo a quinto a�o, que son los grados de primaria en los que los ni�os se encuentran generalmente entre las edades a las que pretendemos atender.
-\nexline
-Las escuelas que visitamos son el instituto Atenea y el Colegio Alamilla Americano. En ellas nos permitieron acceso a los salones de computaci�n para presenciar las clases que les imparten a los alumnos de segundo a quinto grado. En esta experiencia observamos el tipo de programas con los que practican los ni�os el uso de la computadora, c�mo son las gr�ficas de los programas que utilizan para las din�micas, los conceptos que conocen y ocupan dentro de lo que conocen de la computaci�n; adem�s conocimos el tipo de lenguaje que ocupan las maestras para comunicarse con los alumnos, esto tambi�n tiene importancia porque nos ayudar� a definir las palabras que podr�n contener el IDE Olinki en su interfaz.
-\nexline
+e intelectuales:
+\begin{itemize}
+	\item Razonamiento lógico
+	\item Decodificación e interpretación
+	\item Identificación y selección de información
+	\item Inferencia
+	\item Deducción
+	\item Metacognición (Capacidad del individuo para trascender y re-apilicar su propio conocimiento)
+\end{itemize}
+
+La información de los perfiles de comportamiento de los niños en diferentes edades, 
+en conjunto con la información obtenida en la investigación y la aclaración de 
+conceptos en la retroalimentación pedágogica, sirvió como punto de partida para saber 
+qué comportamientos observar en los niños al momento de visitar escuelas. 
+De manera simultánea, brindá palabras clave para el diseño de la interfaz y la 
+posible retroalimentación que el sistema Olinki le dará al usuario final; 
+así mismo, la aclaración de los conceptos y paradigmas pedagógicos como el
+construccionismo puede ser usado como guía en el diseño del mecanismo olinki 
+encajando en las ideas de ésta corriente pedagógica.
+
+\subsection{Retroalimentación en escuelas}
+
+El proyecto está enfocado principalmente a niños que oscilan entre los 7 y 11 años, 
+lo que implica que se debe conocer cómo es el ambiente en el que se desenvuelven 
+para afinar detalles con el diseño del sistema Olinki. 
+Para esto era necesario convivir con grupos de niños de diferentes edades en un 
+ambiente en el que estén aprendiendo de manera habitual, 
+entonces se buscó un espacio en diferentes escuelas dónde se permitiera poder
+observar a alumnos de segundo a quinto año.
+\newline
+Las escuelas que se visitaron son el instituto Atenea y el Colegio Alamilla Americano. 
+En ellas se  permitió acceso a los salones de computación para presenciar las 
+clases que les imparten a los alumnos de segundo a quinto grado. 
+En esta experiencia se observó el tipo de programas con los que practican los niños 
+el uso de la computadora, cómo son las gráficas de los programas que utilizan para 
+las dinámicas, los conceptos que conocen y ocupan dentro de lo que conocen de la 
+computación; además se conoció el tipo de lenguaje que ocupan las maestras para
+comunicarse con los alumnos.
+
+\subsection{Intérpretes}
+
+Se puede considerar a un intérprete como un procesador de lenguaje que analiza un 
+programa escrito en algún lenguaje de programación, y si es correcto, lo ejecuta
+directamente en el lenguaje nativo de la máquina que lo está ejecutando, para cada ejecución
+se debe intérpretar de nuevo el lenguaje a diferencia de los compiladores, 
+que emiten código nativo una sola vez para ser ejecutado porsteriormente.
+Existen algunas razones por las que algún lenguaje solo pueda ser interpretado
+pero no compilado, como son:
+
+\begin{itemize}
+ \item El lenguaje tiene operadores difíciles de compilar, por ejemplo si se 
+ tratan las cadenas de texto como operaciones ejecutables, no es el caso de olinki.
+ \item Se ha eliminado la declaración de variables, que pasa a ser implícita como en el 
+ caso de olinki.
+ \item No hay mecanismos explicitos de control de memoria y es el intérprete quien la 
+ gestiona, en este caso como se verá más adelante olinki aprovecha esta caraterística
+ para simplificar el manejo de variables.
+ \item La presencia del intérprete es por razones de seguridad, no es el caso de olinki.
+\end{itemize}
+
+El hecho de que los compiladores e intérpretes coexistan, sugieren que ambos tipos
+de procesadores de lenguajes tienen cada uno ventajas en ciertos aspectos,
+a continuación se enlistan las ventajas y desventajas de los intérpretes:
+
+\subsubsection{Ventajas de los intérpretes}
+
+\begin{itemize}
+ \item Flexibilidad: Los lenguajes interpretados suelen tener más flexibilidad
+ y permiten realizar operaciones más cómplejas, como la ejecución de cadenas 
+ de texto, cambiar sobre la marcha el contenido o tipo de símbolos e inclusive
+ descartar la declaración explicita de variables.
+ 
+ \item Gestión de Memoria: El intérprete toma por completo la tarea de tomar
+ y liberar memoria, facilitando al programador la depuración y escritura
+ del programa.
+ 
+ \item Desarrollo: Como se anotó anteriormente los lenguajes interpretados 
+ facilitan la escritura de programas, automatizando las tareas de gestión
+ de memoria, depuración, y ofreciedno mayor expresividad.
+ 
+\end{itemize}
+
+\subsubsection{Desventajas de los intérpretes}
+
+\begin{itemize}
+ \item Velocidad de ejecución: Generalmente los programas intérpretados
+ son varias veces más lentos que los compilados, debido a que cada vez
+ que se ejecutan se debe procesar el código fuente para su posterior
+ ejecución.
+ 
+ \item Tamaño del programa: Los programas escritos en lenguajes intérpretados
+ sules ser más grandes que los cpmpilados, ya que estos se encuentran
+ en lenguajes intermedios o de programación mas generales que el código
+ nativo.
+\end{itemize}
+
+\section{Diseño}
+
+Se seleccionó como nombre del lenguaje de programación la palabra Nahuatl 
+``Olinki'' que significa máquina, como reflejo de la parte técnica del proyecto, 
+es decir el propio lenguaje de programación, el lenguaje que se propone para este proyecto, tiene como objetivo la construcción de programas simples que 
+serán ejecutados por el controlador principal con la finalidad de operar motores, sensores  e indicadores,  
+haciendo uso de pictogramas o íconos para representar las estructuras de control y sentencias del lenguaje, así como una representación en forma de  texto como referencia.
+
+\subsection{El lenguaje está constituido por 4 tipos de elementos}
+
+
+\begin{enumerate}
+	\item Variables de Entrada y Salida: Tienen como propósito alimentar al programa con datos tomados del entorno físico mediante el uso de sensores, 
+	así como entregar resultados hacia los actuadores (motores eléctricos, LEDs).
+	\item	Variables Internas: Contienen valores alfanumúricos, usados como pasos intermedios, o valores temporales en el cálculo de expresiones.
+	\item	Expresiones: Expresan relaciones entre los dos tipos de variables que se nombraron anteriormente, dichas expresiones son de naturaleza lógico-matemáticas 
+	(Sumas, Restas, Multiplicación, Concatenación, Negación, etcétera).
+	\item Bloques de Control: Afectan el flujo del programa mediante el uso de operadores lógicos.
+\end{enumerate}
+
+
+\section{Gramática del Lenguaje}
+
+
+Se propone la siguiente gramática para el lenguaje Olinki, la cual expresa la naturaleza de las expresiones y relaciones entre las variables:
+\begin{center}
+ \includegraphics{./gramatica.jpg}
+ % gramatica.jpg: 0x0 pixel, 0dpi, nanxnan cm, bb=
+\end{center}
+
+
+\subsection{Tipo de Datos}
+
+Internamente las variables pueden ser del tipo: cadena de texto, numérico y lógico, donde cadena representa una secuencia de caracteres, 
+numérico representa enteros y números de coma flotante y los del tipo lógico representan valores que pueden tomar como valor Verdadero o Falso.
+La mutación de tipos dentro del lenguaje es transparente al programador, estas son las reglas que rigen dicha conversión.
+
+\begin{center}
+\begin{tabular}{cccc}
+\textbf{Tipo} & \textbf{Numérico} & \textbf{Cadena} & \textbf{Lógico}\\
+\textbf{Númerico} & Valor & "Valor" & Valor >= 1? V : F\\
+\textbf{Cadena} & Valor | Longitud("Valor") & Valor & "Verdarero" => V, otro => F\\
+\textbf{Lógico} & Valor? 1 : 0 & Valor? "Verdadero" : "Falso" & Valor
+\end{tabular}
+\end{center}
+
+
+\section{Operaciones}
+\label{sec:Operaciones}
+
+
+Las operaciones entre las variables quedan definidas en términos del tipo de dato.
+
+\begin{center}
+\begin{tabular}{llll}
+\textbf{Operación} & \textbf{Númerico V1,V2} & \textbf{Cadena V1,V2} & \textbf{Lógico V1,V2}\\
+\textbf{Suma} & V1 + V2 & Concatenación(V1, V2) & OR(V1, V1)\\
+\textbf{Resta} & V1 - V2 & NA & NA\\
+\textbf{Multiplicación} & V1 * V2 & NA & AND(V1, V2)\\
+\textbf{División} & V1 / V2 & NA & NA\\
+\textbf{Longitud} & ValorAbsoluto(V1) & Longitud(V1) & V1?1:0
+\end{tabular}
+\end{center}
+
+\subsection{Palabras reservadas}
+
+ 
+INICIO: Determina inicio de programa\\
+SI: Primera Condicional\\
+SINO: Segunda Condicional\\
+REPETIR: Inicio de Ciclo de iteración\\
+ESCRIBE: Mostrar cadena en pantalla\\
+LIMPIAR: Limpiar pantalla\\
+MOTOR: Activar motor\\
+SENSOR: Leer valor de sensor\\
+FIN: Terminar Bloque de Iteración, Condicional o Programa\\
+Y: Operador lógico and\\
+O: Operador lógico or\\
+NO: Operador lógico de negación\\
+
+\section{Equivalencia Gráfica}
+
+
+Las palabras reservadas anteriormente listadas forman reglas gramaticales al principio 
+de este capitulo, estas reglas tienen un equivalente gráfico que facilita la creación 
+de programas mediante el uso de una interfaz gráfica de usuario y acciones drag and 
+drop.
+La equivalencia entre reglas gramaticales y elementos gráficos es 1 a 1, 
+es decir que existe un elemento grafico por cada regla,  así estos elementos 
+gráficos son usados como piezas que al ser puestos juntos forman un nuevo programa. 
+Se enlista la equivalencia:
+
+
+
+
+
+
+\subsection{Ejemplo de programa}
+
+
+ \newline
+INICIO\newline
+	suma = 0\newline
+REPETIR 5\newline
+	suma = suma + 1\newline
+FIN\newline
+SI suma = 5\newline
+	ESCRIBE ``Hola''\newline
+SINO	\newline
+	ESCRIBE ``Adios``\newline
+FIN\newline
+FIN\newline 
+
+\subsection{Requisitos funcionales}
+
+En esta sección conoceremos las acciones que podrá realizar Olinki cuando se manipulado por el usuario. 
+Primero hablaremos del comportamiento que tendrá el EDI Olinki (Entorno de desarrollo integrado Olinki) y posteriormente la variedad de funciones que es posible realizar 
+
+\subsubsection{EDI Olinki}
+
+EDI Olinki es un sistema que puede ser manipulado desde su instalación en un equipo de cómputo o desde la máquina programable; 
+si se programa desde éste último  necesitaremos auxiliarnos de una pantalla de televisor para poder visualizar el mismo entorno gráfico y navegar con los botones del mecanismo
+físico. A continuación conoceremos las funcionalidades de EDI Olinki
+\begin{itemize}
+
+	\item El usuario podrá crear un programa con extensión de formato .oli en EDI Olinki.
+	\item El programa que sea creado en EDI Olinki podrá ser abierto y visualizado para su edición.
+	\item Será posible guardar en el equipo cualquier programa creado o editado en EDI Olinki siempre y cuando no exista algún otro con el mismo nombre.
+	\item Una vez que el usuario haya terminado el programa podr� compilarlo con EDI Olinki.
+		\subitem Si el programa no tiene errores EDI Olinki enviar� un mensaje de �xito al usuario.
+		\subitem En caso de que EDI Olinki encuentre alg�n error durante la compilaci�n del programa, enviar� un mensaje al usuario para que revise de nuevo su programa.
+	\item Con EDI Olinki podremos cargar el programa una vez compilado en la m�quina programable Olinki.
+		\subitem Una vez que el programa ha sido cargado en la memoria de la m�quina programable, EDI Olinki mostrar� un mensaje de confirmaci�n.
+		\subitem De no ser as�, EDI Olinki enviar� un mensaje al usuario de que hubo una falla mientras se cargaba el programa en la m�quina programable.
+	\item Con EDI Olinki el usuario tendr� la posibilidad de ejecutar el programa.
+\end{enumerate}
+\newline
+
+\subsection{Mecanismo Olinki.}
+\label{sec:MecanismoOlinki}
+
+
+El mecanismo Olinki es el conjunto de 3 motores y 3 sensores (de contacto, luz y temperatura) que pueden ser ensamblados y conectados en la m�quina programable para que realicen alguna acci�n una vez que es ejecutado el programa creado en EDI Olinki. En seguida haremos una descripci�n de sus funciones.
+\newline
+
+\begin{enumerate}
+	\item Uno o m�s de los sensores podr�n ser ensamblados con el cuerpo de la m�quina programable Olinki.
+	\itemUno o m�s de los motores podr�n ser ensamblados con el cuerpo de la m�quina programable Olinki.
+	\item El usuario podr� conectar uno o m�s sensores a la m�quina programable Olinki.
+	\item El usuario podr� conectar uno o m�s motores a la m�quina programable Olinki.
+	\item Los sensores podr�n ser activados una vez que sea ejecutado el programa cargado en la m�quina programable Olinki.
+	\item Los motores podr�n ser activados una vez que sea ejecutado el programa cargado en la m�quina programable Olinki
+	\item El usuario podr� navegar en la pantalla de televisor con los botones de la m�quina programable Olinki.
+\end{enumerate}
+\newline
+
+\subsubsection{Requisitos no funcionales:}
+\label{sec:RequisitosNoFuncionales}
+
+En el siguiente apartado se detallar�n caracter�sticas que deber� cumplir el equipo de c�mputo en el cual se desee instalar EDI Olinki y los aspectos generales de su interfaz. Tambi�n se har� una descripci�n de las caracter�sticas f�sicas que tendr� el mecanismo para conocer para conocer su posible comportamiento.
+\newline
+
+\subsubsection{EDI Olinki}
+\label{sec:EDIOlinki}
+
+
+Comenzaremos con los requerimientos b�sicos para la instalaci�n en un equipo de c�mputo y especificaciones de la interfaz  del EDI Olinki
+\begin{enumerate}
+	\item EDI Olinki podr� ser instalado en cualquier computadora que tenga un procesador superior a 500 MHzm, memoria RAM mayor a 512 MB, almacenamiento de disco duro arriba de los 4 GB, perif�ricos b�sicos (teclado y mouse).
+	\item EDI Olinki podr� ser instalado en cualquier sistema operativo Linux, Windows o OSX.
+	\item Para usar EDI Olinki desde un televisor, �ste deber� contar una entrada HDMI o RCA Compuesta; adem�s de un cable Mini Jack-HDMI.
+	\item El entorno de programaci�n de EDI Olinki resultar� de simple uso en particular para los usuarios de peque�as edades.
+	\item Con EDI Olinki el usuario podr� escoger el directorio para ubicar cada programa creado o editado.
+	\item En EDI Olinki el usuario podr� visualizar los programas que han sido creados.
+
+\end{enumerate}
+\newline
+
+\subsubsection{Mecanismo Olinki.}
+\label{sec:MecanismoOlinki}
+
+
+
+En seguida presentaremos una descripci�n de una serie de aspectos que tendr� el mecanismo Olinki en su aspecto f�sico.
+\begin{enumerate}
+	\item El equipo de c�mputo deber� contar con uno o m�s puertos Ethernet.
+	\item El usuario no tendr� acceso al circuito interno de la m�quina programable Olinki ni de sus componentes perif�ricos (motores y sensores).
+	\item La forma de la m�quina programable Olinki estar� dise�ada de tal manera que su manipulaci�n sea ergon�mica.
+	\item Los botones de la m�quina programable Olinki  estar�n colocados de tal manera que sea f�cil la navegaci�n durante la programaci�n cuando se programe directamente y se quiera hacer uso de una pantalla de tv.
+	\item Los perif�ricos de Olinki no estar�n conectados permanentemente a  la m�quina programable.
+	\itemNo ser� necesario que el usuario tenga conocimientos previos para que le resulte f�cil el armado de la m�quina programable Olinki  con sus perif�ricos.
+\end{enumerate}
+
+
+
+
+
 
 
 
