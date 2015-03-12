@@ -1,0 +1,11 @@
+Para compilar:
+
+	make 
+
+Para ver el documento:
+
+	make view
+
+Para limpiar el directorio antes de un 'commit':
+
+	make clean
